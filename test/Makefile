@@ -1,4 +1,4 @@
-#Create 32-bit executable for fib.c by using the gcc flags as mentioned in the PDF
+#Create 32-bit executable for fib.c
 
 #Provide the command for cleanup
 
