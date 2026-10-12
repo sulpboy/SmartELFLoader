@@ -1,7 +1,3 @@
-/*
- * No changes are allowed to this file
- */
-
 #include <stdio.h>
 #include <elf.h>
 #include <string.h>
